@@ -1,0 +1,110 @@
+{
+  "categories": [
+    {
+      "id": "elektronik",
+      "name": "Elektronik",
+      "icon": "headphones",
+      "color": "#1F5A82"
+    },
+    {
+      "id": "ev",
+      "name": "Ev ve Yaşam",
+      "icon": "home",
+      "color": "#B87A2A"
+    },
+    {
+      "id": "kitap",
+      "name": "Kitap",
+      "icon": "book",
+      "color": "#6E3A4A"
+    },
+    {
+      "id": "spor",
+      "name": "Spor",
+      "icon": "sport",
+      "color": "#2F6B4A"
+    }
+  ],
+  "products": [
+    {
+      "id": "kulaklik",
+      "name": "Kablosuz Kulaklık",
+      "categoryId": "elektronik",
+      "price": 1299,
+      "rating": 4.7,
+      "featured": true,
+      "image": "assets/images/kulaklik.png",
+      "description": "Gün boyu süren pil ve yumuşak kulak yastıklarıyla sade bir dinleme arkadaşı. Kutuda şarj kablosu da bulunur."
+    },
+    {
+      "id": "saat",
+      "name": "Akıllı Saat",
+      "categoryId": "elektronik",
+      "price": 2499,
+      "rating": 4.5,
+      "featured": true,
+      "image": "assets/images/saat.png",
+      "description": "Adım, uyku ve bildirimleri tek kadranda toplar. Kayış gün içinde kolayca değiştirilebilir."
+    },
+    {
+      "id": "lamba",
+      "name": "Masa Lambası",
+      "categoryId": "ev",
+      "price": 649,
+      "rating": 4.6,
+      "featured": true,
+      "image": "assets/images/lamba.png",
+      "description": "Sıcak ışık veren kompakt bir lamba. Çalışma masasında az yer kaplar, başlığı istediğiniz yöne döner."
+    },
+    {
+      "id": "kupa",
+      "name": "Seramik Kupa",
+      "categoryId": "ev",
+      "price": 189,
+      "rating": 4.4,
+      "featured": false,
+      "image": "assets/images/kupa.png",
+      "description": "Mat sırlı, el işi hissi veren kupa. 280 ml hacmindedir ve bulaşık makinesinde yıkanabilir."
+    },
+    {
+      "id": "defter",
+      "name": "Çizgili Defter",
+      "categoryId": "kitap",
+      "price": 149,
+      "rating": 4.3,
+      "featured": false,
+      "image": "assets/images/defter.png",
+      "description": "Yumuşak kapaklı, 96 sayfalık çizgili defter. Geniş kenar boşluğu not alırken satırı kaçırmamanıza yardım eder."
+    },
+    {
+      "id": "kitap",
+      "name": "Sessiz Liman",
+      "categoryId": "kitap",
+      "price": 220,
+      "rating": 4.8,
+      "featured": true,
+      "image": "assets/images/kitap.png",
+      "description": "Küçük bir kıyı kasabasında geçen kısa roman. Çantaya sığan boyutu ve sıkı kurgusuyla bir oturuşta biter."
+    },
+    {
+      "id": "mat",
+      "name": "Yoga Matı",
+      "categoryId": "spor",
+      "price": 499,
+      "rating": 4.6,
+      "featured": false,
+      "image": "assets/images/mat.png",
+      "description": "Kaymaz yüzeyli, 6 mm kalınlığında mat. Rulo halinde dolaba sığar, taşıma ipi ile birlikte gelir."
+    },
+    {
+      "id": "matara",
+      "name": "Çelik Matara",
+      "categoryId": "spor",
+      "price": 279,
+      "rating": 4.5,
+      "featured": false,
+      "image": "assets/images/matara.png",
+      "description": "500 ml çift katmanlı matara. Gün boyu suyu serin tutar, kapağı tek elle açılır."
+    }
+  ]
+}
